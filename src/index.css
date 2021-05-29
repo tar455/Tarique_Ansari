@@ -11,3 +11,37 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fab{
+    font-size: 2rem;
+    margin-left: 3rem;
+}
+.fas{
+  font-size: 2rem;
+  margin-left: 3rem;
+}
+
+footer
+{
+  background-color: black;
+  color: aliceblue;
+  position:fixed;
+   left:0px;
+   bottom:0px;
+   z-index:1;
+   width:100%;
+}
+span{
+  font-size: 1rem;
+  font-family: 'Segoe UI', 'Tahoma, Geneva', 'Verdana', 'sans-serif';
+}
+.navbar{
+  background-color: black;
+  
+}
+a{
+  color: rgb(49, 135, 175);
+}
+.navbar a{
+  color: rgb(49, 135, 175);
+}
