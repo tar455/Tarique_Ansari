@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Tarique_Ansari/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Tarique_Ansari/static/js/main.e5606f27.chunk.js",
-    "main.js.map": "/Tarique_Ansari/static/js/main.e5606f27.chunk.js.map",
-    "runtime-main.js": "/Tarique_Ansari/static/js/runtime-main.8cfb933d.js",
-    "runtime-main.js.map": "/Tarique_Ansari/static/js/runtime-main.8cfb933d.js.map",
-    "static/js/2.16ce9e39.chunk.js": "/Tarique_Ansari/static/js/2.16ce9e39.chunk.js",
-    "static/js/2.16ce9e39.chunk.js.map": "/Tarique_Ansari/static/js/2.16ce9e39.chunk.js.map",
-    "static/js/3.c77f1f4c.chunk.js": "/Tarique_Ansari/static/js/3.c77f1f4c.chunk.js",
-    "static/js/3.c77f1f4c.chunk.js.map": "/Tarique_Ansari/static/js/3.c77f1f4c.chunk.js.map",
+    "main.css": "/Tarique_Ansari/static/css/main.ce1e0766.chunk.css",
+    "main.js": "/Tarique_Ansari/static/js/main.84145921.chunk.js",
+    "main.js.map": "/Tarique_Ansari/static/js/main.84145921.chunk.js.map",
+    "runtime-main.js": "/Tarique_Ansari/static/js/runtime-main.c60ab016.js",
+    "runtime-main.js.map": "/Tarique_Ansari/static/js/runtime-main.c60ab016.js.map",
+    "static/js/2.8ca60ce7.chunk.js": "/Tarique_Ansari/static/js/2.8ca60ce7.chunk.js",
+    "static/js/2.8ca60ce7.chunk.js.map": "/Tarique_Ansari/static/js/2.8ca60ce7.chunk.js.map",
+    "static/js/3.4336b1af.chunk.js": "/Tarique_Ansari/static/js/3.4336b1af.chunk.js",
+    "static/js/3.4336b1af.chunk.js.map": "/Tarique_Ansari/static/js/3.4336b1af.chunk.js.map",
     "index.html": "/Tarique_Ansari/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Tarique_Ansari/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.16ce9e39.chunk.js.LICENSE.txt": "/Tarique_Ansari/static/js/2.16ce9e39.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Tarique_Ansari/static/media/logo.6ce24c58.svg"
+    "static/css/main.ce1e0766.chunk.css.map": "/Tarique_Ansari/static/css/main.ce1e0766.chunk.css.map",
+    "static/js/2.8ca60ce7.chunk.js.LICENSE.txt": "/Tarique_Ansari/static/js/2.8ca60ce7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cfb933d.js",
-    "static/js/2.16ce9e39.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.e5606f27.chunk.js"
+    "static/js/runtime-main.c60ab016.js",
+    "static/js/2.8ca60ce7.chunk.js",
+    "static/css/main.ce1e0766.chunk.css",
+    "static/js/main.84145921.chunk.js"
   ]
 }
