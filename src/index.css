@@ -45,3 +45,26 @@ a{
 .navbar a{
   color: rgb(49, 135, 175);
 }
+.outer-content
+{
+  margin-left: 2rem;
+  margin-top: 3rem;
+  margin-right: 5rem;
+  padding: 4rem 2rem 3rem 4rem;
+  background-color:rgb(94, 170, 241);
+}
+.inner-content
+{
+  margin: 2rem 3rem 2rem 2rem;
+  background-color:rgb(211, 247, 211);
+  font-size: 1.5rem;
+  font-family: 'Gill Sans', 'Gill Sans MT','' Calibri, 'Trebuchet MS', 'sans-serif';
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  [class*="col-"] {
+    width: 100%;
+  }
+}
