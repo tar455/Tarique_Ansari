@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Tarique_Ansari/static/css/main.ce1e0766.chunk.css",
-    "main.js": "/Tarique_Ansari/static/js/main.84145921.chunk.js",
-    "main.js.map": "/Tarique_Ansari/static/js/main.84145921.chunk.js.map",
+    "main.css": "/Tarique_Ansari/static/css/main.f423c6d0.chunk.css",
+    "main.js": "/Tarique_Ansari/static/js/main.fa783b13.chunk.js",
+    "main.js.map": "/Tarique_Ansari/static/js/main.fa783b13.chunk.js.map",
     "runtime-main.js": "/Tarique_Ansari/static/js/runtime-main.c60ab016.js",
     "runtime-main.js.map": "/Tarique_Ansari/static/js/runtime-main.c60ab016.js.map",
-    "static/js/2.8ca60ce7.chunk.js": "/Tarique_Ansari/static/js/2.8ca60ce7.chunk.js",
-    "static/js/2.8ca60ce7.chunk.js.map": "/Tarique_Ansari/static/js/2.8ca60ce7.chunk.js.map",
+    "static/js/2.a5f82269.chunk.js": "/Tarique_Ansari/static/js/2.a5f82269.chunk.js",
+    "static/js/2.a5f82269.chunk.js.map": "/Tarique_Ansari/static/js/2.a5f82269.chunk.js.map",
     "static/js/3.4336b1af.chunk.js": "/Tarique_Ansari/static/js/3.4336b1af.chunk.js",
     "static/js/3.4336b1af.chunk.js.map": "/Tarique_Ansari/static/js/3.4336b1af.chunk.js.map",
     "index.html": "/Tarique_Ansari/index.html",
-    "static/css/main.ce1e0766.chunk.css.map": "/Tarique_Ansari/static/css/main.ce1e0766.chunk.css.map",
-    "static/js/2.8ca60ce7.chunk.js.LICENSE.txt": "/Tarique_Ansari/static/js/2.8ca60ce7.chunk.js.LICENSE.txt"
+    "static/css/main.f423c6d0.chunk.css.map": "/Tarique_Ansari/static/css/main.f423c6d0.chunk.css.map",
+    "static/js/2.a5f82269.chunk.js.LICENSE.txt": "/Tarique_Ansari/static/js/2.a5f82269.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c60ab016.js",
-    "static/js/2.8ca60ce7.chunk.js",
-    "static/css/main.ce1e0766.chunk.css",
-    "static/js/main.84145921.chunk.js"
+    "static/js/2.a5f82269.chunk.js",
+    "static/css/main.f423c6d0.chunk.css",
+    "static/js/main.fa783b13.chunk.js"
   ]
 }
