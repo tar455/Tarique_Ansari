@@ -67,4 +67,24 @@ a{
   [class*="col-"] {
     width: 100%;
   }
+  [class*=".outer-content"]
+  {
+    margin-top:0.5px;
+    margin-left: 0.3px;
+    margin-right: 0.3px;
+    margin-bottom: 0.4px;
+  }
+  [class*="inner-content"]
+  {
+    margin-top: 1px;
+    margin-left: 0.2px;
+    margin-right: 0.2px;
+    margin-bottom: 0.4px;
+  }
 }
+
+/* .img_back
+{
+  width: 100%;
+  height: 100%;
+} */
