@@ -12,7 +12,7 @@ export default function footer() {
                         <div className="row flex-column">
                            <div className="col-sm">
                             <p>
-                            <a btn="btn btn-social-icon btn-instagram" href="https://www.instagram.com/mdtarique14/"><i className="fab fa-instagram-square"></i></a>
+                            <a btn="btn btn-social-icon btn-instagram" href="https://www.instagram.com/tarique_14_/"><i className="fab fa-instagram-square"></i></a>
                             <a btn="btn btn-social-icon btn-facebook" href="https://www.facebook.com/mdtarique.ansari.12/"><i className="fab fa-facebook-square"></i></a>
                             <a href="https://twitter.com/MDTariq66497417"><i className="fab fa-twitter-square"></i></a>
                             <a href="mailto: tariqueansari455@gmail.com"><i className="fas fa-envelope"></i></a>
